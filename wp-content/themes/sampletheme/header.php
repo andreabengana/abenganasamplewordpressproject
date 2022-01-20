@@ -85,7 +85,7 @@
             </div>
         </div>
     <?php endif; ?>
-	<div id="content" class="site-content">
+	<div id="content" class="site-content wow bounceInUp">
 		<div class="container">
 			<div class="row">
                 <?php endif; ?>
